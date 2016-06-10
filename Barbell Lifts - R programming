@@ -1,3 +1,9 @@
+Before Further Reading, please read the summary of this study located in the following link: 
+
+http://htmlpreview.github.io/?https://github.com/jl8414/ML-Computing/blob/master/Barbell%20Lift%20-%20html%20file
+
+
+################################################################################
 #Packages, Library, Seed -->Need to be installed
 library(caret) #Machine learning Library
 library(ggplot2) 
